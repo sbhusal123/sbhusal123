@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, GraphQL and Microservices**
 
-- 💬 Ask me about **Django, React**
+- 💬 Ask me about **Django, React, Flask**
 
 - 📫 How to reach me **suryabhusal11@gmail.com**
 
