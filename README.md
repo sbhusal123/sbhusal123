@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sury Bhusal</h1>
-<h3 align="center">Full Stack Developer With Expertise in Django And React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbhusal123&label=Profile%20views&color=0e75b6&style=flat" alt="sbhusal123" /> </p>
 
