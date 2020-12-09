@@ -34,6 +34,7 @@
 
 ## Github Hosted React App
 - [Quiz Game(React, Hooks, TypeScript, Styled Components)](https://sbhusal123.github.io/react-quiz/)
+- [Expense Tracker(Reactm Hooks, State Management, TypeScript)](https://sbhusal123.github.io/expense-tracker/)
 
 
 
