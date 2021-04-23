@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Django And React**
 
-- 🌱 I’m currently learning **React, GraphQL and Microservices**
+- 🌱 I’m currently learning **React, React Native, GraphQL**
 
 - 💬 Ask me about **Django, React, Flask**
 
