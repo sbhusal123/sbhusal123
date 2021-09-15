@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Django And React**
 
-- 🌱 I’m currently learning **React, Nodejs, Microservices**
+- 🌱 I’m currently learning **React, Nodejs, Microservices and Webservices Architectural Implementation**
 
 - 💬 Ask me about **Django, React, Flask**
 
