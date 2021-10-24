@@ -27,11 +27,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbhusal123&show_icons=true&locale=en" alt="sbhusal123" /></p>
 
 ## Learning Based Curated Repo(For Reference) with Markdown Docs
-- [Python Data Structures](https://github.com/sbhusal123/Python-Data-Structures)
+- [Python Data Structures and Basics](https://github.com/sbhusal123/Python-Data-Structures)
 - [RabitMQ and Messaging](https://github.com/sbhusal123/RabbitMQ#4-contents)
 - [SQL Alchemy](https://github.com/sbhusal123/alchemy_curated)
 - [ES6 Callbacks, Promise and Async Actions](https://github.com/sbhusal123/Callbacks-Async-Await-and-Promises)
 - [React Hooks Usage With Examples](https://github.com/sbhusal123/react-hooks)
+- [Pointers, Structures and Dynamic Memory Allocation in C](https://github.com/sbhusal123/Programming-in-C)
+- [Intermediate Python Programming](https://github.com/sbhusal123/Intermediate-Python-Programming)
 
 ## Github Hosted React App
 - [Quiz Game(React, Hooks, TypeScript, Styled Components)](https://sbhusal123.github.io/react-quiz/)
