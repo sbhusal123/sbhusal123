@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently working on **Django And React**
 
-- 🌱 I’m currently learning **React, Nodejs, GrahQL Microservices Architectural Implementation**
+- 🌱 I’m currently learning **React, Nodejs, Python Asynchronous Programming**
+
+- 📖 I'm currently Reading **Using Asyncio in Python(Orelly), Django Design Pattern and Best Practices(Packt)**
 
 - 💬 Ask me about **Django, React, Flask**
 
