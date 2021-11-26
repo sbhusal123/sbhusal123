@@ -48,9 +48,7 @@
 - [Multiprocessing IPC with multiple Queues](https://suryabhusal11.medium.com/multiprocessing-ipc-with-multiple-queues-52ea434196a6)
 
 ## Github Gists
+{% gist 4c881eedef45718f76dedb5b86d80eaa %}
+{% gist fb8dfc988c6178635aba0517248716d7 %}
 
-<script src="https://gist.github.com/sbhusal123/4c881eedef45718f76dedb5b86d80eaa.js"></script>
-
-
-<script src="https://gist.github.com/sbhusal123/fb8dfc988c6178635aba0517248716d7.js"></script>
 
