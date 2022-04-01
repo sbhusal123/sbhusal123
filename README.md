@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbhusal123" alt="sbhusal123" /></a> </p>
 
-- 🔭 I’m currently working on **Django And React**
+- 🔭 I’m currently working on **Flask, Django, Asyncio, Fastapi**
 
 - 🌱 I’m currently learning **React, Nodejs, Python Asynchronous Programming**
 
 - 📖 I'm currently Reading **Using Asyncio in Python(Orelly), Django Design Pattern and Best Practices(Packt)**
 
-- 💬 Ask me about **Django, React, Flask**
+- 💬 Ask me about **Django, Flask, Fastapi, React, AWS**
 
 - 📫 How to reach me **suryabhusal11@gmail.com**
 
