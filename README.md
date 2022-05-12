@@ -36,6 +36,7 @@
 - [React Hooks Usage With Examples](https://github.com/sbhusal123/react-hooks)
 - [Pointers, Structures and Dynamic Memory Allocation in C](https://github.com/sbhusal123/Programming-in-C)
 - [Intermediate Python Programming](https://github.com/sbhusal123/Intermediate-Python-Programming)
+- [Debugging A Web Scraping Bot Built with Scrapy](https://github.com/sbhusal123/Advanced-Web-Scraping/tree/main/worldometers)
 
 ## Github Hosted React App
 - [Quiz Game(React, Hooks, TypeScript, Styled Components)](https://sbhusal123.github.io/react-quiz/)
