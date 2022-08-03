@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Flask, Django, Asyncio, Fastapi**
 
-- 🌱 I’m currently learning **React, Nodejs, Python Asynchronous Programming**
+- 🌱 I’m currently learning **Golang, Python Asynchronous Programming**
 
-- 📖 I'm currently Reading **Using Asyncio in Python(Orelly), Django Design Pattern and Best Practices(Packt)**
+- 📖 I'm currently Reading **Head First Design Patterns,  Mastering Microservices (Packt)**
 
 - 💬 Ask me about **Django, Flask, Fastapi, React, AWS**
 
