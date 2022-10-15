@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Surya, python developer and a freelancer </h1>
+<h1 align="center">Hi 👋, I'm Surya, python / react developer and a freelancer </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbhusal123&label=Profile%20views&color=0e75b6&style=flat" alt="sbhusal123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbhusal123" alt="sbhusal123" /></a> </p>
 
-- 🔭 I’m currently working on **Flask, Django, Asyncio, Fastapi**
+- 🔭 I’m currently working on **Flask, Django, React, React Native**
 
-- 🌱 I’m currently learning **Golang, Python Asynchronous Programming**
+- 🌱 I’m currently learning **React Native**
 
 - 📖 I'm currently Reading **Head First Design Patterns,  Mastering Microservices (Packt)**
 
-- 💬 Ask me about **Django, Flask, Fastapi, React, AWS**
+- 💬 Ask me about **Django, Flask, Fastapi, React, AWS, React Native**
 
 - 📫 How to reach me **suryabhusal11@gmail.com**
 
