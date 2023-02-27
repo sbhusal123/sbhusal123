@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbhusal123" alt="sbhusal123" /></a> </p>
 
-- 🔭 I’m currently working on **Flask, Django, React, React Native**
+- 🔭 I’m currently working on **Flask, Django, React, React Redux**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Distributed System**
 
 - 📖 I'm currently Reading **Head First Design Patterns,  Mastering Microservices (Packt)**
 
-- 💬 Ask me about **Django, Flask, Fastapi, React, AWS, React Native**
+- 💬 Ask me about **Django, Flask, Fastapi, React, AWS, React Redux**
 
 - 📫 How to reach me **suryabhusal11@gmail.com**
 
