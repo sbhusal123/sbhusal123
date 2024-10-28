@@ -41,6 +41,7 @@
 - [Intermediate Python Programming](https://github.com/sbhusal123/Intermediate-Python-Programming)
 - [Debugging A Web Scraping Bot Built with Scrapy](https://github.com/sbhusal123/Advanced-Web-Scraping/tree/main/worldometers)
 - [Common SQL Queries](https://github.com/sbhusal123/mysql-sakila-practice-db)
+- [Concurrency Simplified With Python](https://github.com/sbhusal123/concurrency-primitives)
 
 ## Github Hosted React App
 - [Quiz Game(React, Hooks, TypeScript, Styled Components)](https://sbhusal123.github.io/react-quiz/)
