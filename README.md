@@ -40,7 +40,7 @@
 - [Pointers, Structures and Dynamic Memory Allocation in C](https://github.com/sbhusal123/Programming-in-C)
 - [Intermediate Python Programming](https://github.com/sbhusal123/Intermediate-Python-Programming)
 - [Debugging A Web Scraping Bot Built with Scrapy](https://github.com/sbhusal123/Advanced-Web-Scraping/tree/main/worldometers)
-- [Common SQL Queries](https://github.com/sbhusal123/mysql-sakila-practice-db)
+- [Common SQL Queries: With Sample Queries From Sakila Practice DB](https://github.com/sbhusal123/mysql-sakila-practice-db)
 - [Concurrency Simplified With Python](https://github.com/sbhusal123/concurrency-primitives)
 - [Kubernetes Resource Creation Reference](https://github.com/sbhusal123/kubernetes-curated/tree/main/Curated%20Reference/Resource%20Creation)
 
