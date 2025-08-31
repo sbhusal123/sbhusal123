@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Surya, python / react developer and a freelancer </h1>
+<h1 align="center">Hi 👋, I'm Surya, python developer exploring various ecosystems </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbhusal123&label=Profile%20views&color=0e75b6&style=flat" alt="sbhusal123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbhusal123" alt="sbhusal123" /></a> </p>
 
-- 🔭 I’m currently working on **Flask, Django, React, React Redux**
+- 🔭 I’m currently working on **Flask, FastAPI, React, VOIP, Pytorch, Manim, Langgraph, Langchain**
 
-- 🌱 I’m currently learning **Distributed System**
+- 🌱 I’m currently learning **Machine Learning With Pytorch**
 
-- 📖 I'm currently Reading **Head First Design Patterns,  Mastering Microservices (Packt)**
-
-- 💬 Ask me about **Django, Flask, Fastapi, React, AWS, React Redux**
+- 📖 I'm currently Reading **Hunderd Days Of ML, ML With Pytorch By Sebastian**
 
 - 📫 How to reach me **suryabhusal11@gmail.com**
 
@@ -43,6 +41,7 @@
 - [Common SQL Queries: With Sample Queries From Sakila Practice DB](https://github.com/sbhusal123/mysql-sakila-practice-db)
 - [Concurrency Simplified With Python](https://github.com/sbhusal123/concurrency-primitives)
 - [Kubernetes Resource Creation Reference](https://github.com/sbhusal123/kubernetes-curated/tree/main/Curated%20Reference/Resource%20Creation)
+- [Visualization And Pytorch Mixtures](https://github.com/sbhusal123/pytorch-experiments)
 
 ## Github Hosted React App
 - [Quiz Game(React, Hooks, TypeScript, Styled Components)](https://sbhusal123.github.io/react-quiz/)
